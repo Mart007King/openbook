@@ -1,0 +1,15 @@
+{
+  "name": "openbook-pro",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd client && npm start",
+    "build": "cd client && npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  }
+}
